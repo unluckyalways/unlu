@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "variants": [
+    {
+      "compatTarget": "0.107.1",
+      "directory": "lib/0.107.1",
+      "assembly": "HextechRunes.dll",
+      "sha256": "a34f91ba83ae52846d410810ea472e76dcf2823953ee135aabbb2f679bf1cdec"
+    },
+    {
+      "compatTarget": "0.111.0",
+      "directory": "lib/0.111.0",
+      "assembly": "HextechRunes.dll",
+      "sha256": "7acfab52976b412d17a91773605b0db4342bcea007dc046cea746ef2fd18de12"
+    }
+  ]
+}
