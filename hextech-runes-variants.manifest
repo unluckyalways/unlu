@@ -5,13 +5,7 @@
       "compatTarget": "0.107.1",
       "directory": "lib/0.107.1",
       "assembly": "HextechRunes.dll",
-      "sha256": "a9296e370f47d3bc9b28532a1042f04f1bf418066632eeae1db283572a44c008"
-    },
-    {
-      "compatTarget": "0.111.0",
-      "directory": "lib/0.111.0",
-      "assembly": "HextechRunes.dll",
-      "sha256": "7acfab52976b412d17a91773605b0db4342bcea007dc046cea746ef2fd18de12"
+      "sha256": "5e121b397afa9885940de1b4902fe0108a6a265f60deb7509a16b1d0b9f2803e"
     }
   ]
 }
